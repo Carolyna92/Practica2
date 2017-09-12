@@ -3,15 +3,15 @@
 Question 1: What’s difference between Portable (CPL) and Shared (SAP) projects?
 Answer 1 :
 SAP: SAP creates one file per project
-PCL: Create a dll ie they are are libraries they will use it
+PCL: use dlls ie and those are libraries 
 
 Step 2 – Configure Mobile Platforms
 
 Question 2: What are the requirements to configure Xamarin Mac Agent?
 Answer 2:
-Have a Mac
-Have xcode installed and visual studio for Mac
-Enable remote access for the user (s) on Mac
+Having a Mac
+Having installed  Xcode and visual studio for Mac
+Enable remote access for the users on Mac
 
 Step 3 - Walk through the solution structure
 
