@@ -3,7 +3,7 @@
 Question 1: What’s difference between Portable (CPL) and Shared (SAP) projects?
 Answer 1 :
 SAP: SAP creates one file per project
-PCL: use dlls ie and those are libraries 
+PCL: use dlls  and those are libraries 
 
 Step 2 – Configure Mobile Platforms
 
