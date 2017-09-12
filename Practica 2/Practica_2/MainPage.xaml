@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Practica_2"
+             x:Class="Practica_2.MainPage"
+             BackgroundColor="Black">
+    <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+        
+        
+        <Label Text="Carolina Muñoz Santiago"   TextColor="Cyan" FontSize="Medium"/>
+        <Label Text="13090365"   TextColor="Cyan" FontSize="Medium"/>
+    </StackLayout>
+</ContentPage>
+
+
+
+    

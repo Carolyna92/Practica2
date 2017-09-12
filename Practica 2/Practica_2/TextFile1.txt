@@ -1,0 +1,22 @@
+﻿Step 1 - Create a new Project
+
+Question 1: What’s difference between Portable (CPL) and Shared (SAP) projects?
+Answer 1 :
+SAP: SAP creates one file per project
+PCL: Create a dll ie they are are libraries they will use it
+
+Step 2 – Configure Mobile Platforms
+
+Question 2: What are the requirements to configure Xamarin Mac Agent?
+Answer 2:
+Have a Mac
+Have xcode installed and visual studio for Mac
+Enable remote access for the user (s) on Mac
+
+Step 3 - Walk through the solution structure
+
+Question 3: How many projects you have and why you need all?
+Answer 3: There are 4 projects:
+1.- Portable: This is the one that works because, this is the one that will share the code with
+ the other projects that references to each platform, Android, iOS and UWP, in each of them have code
+ that will only they will use them either for your native code.
